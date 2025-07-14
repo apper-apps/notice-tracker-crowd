@@ -1,0 +1,46 @@
+[
+  {
+    "Id": 1,
+    "name": "Fiduciary Duty Notice",
+    "subject": "Official Notice: Fiduciary Duty Compliance for {officer.name}",
+    "body": "Dear {officer.name},\n\nThis is an official notice regarding your fiduciary duties as a public officer with {officer.organization} in {officer.state}.\n\nAs a member of the Living Council, I am writing to remind you of your constitutional obligations and fiduciary duties to the people of Australia.\n\nYour immediate attention and response to this matter is required within 14 days of receipt of this notice.\n\nPlease acknowledge receipt of this notice and provide written confirmation of your understanding of these obligations.\n\nRegards,\n{sender.name}\nLiving Council Member\n\nDate: {notice.date}",
+    "variables": ["officer.name", "officer.organization", "officer.state", "sender.name", "notice.date"],
+    "category": "fiduciary",
+    "createdBy": "Living Council Admin",
+    "createdAt": "2024-01-10T10:00:00Z",
+    "updatedAt": "2024-01-10T10:00:00Z"
+  },
+  {
+    "Id": 2,
+    "name": "Constitutional Oath Reminder",
+    "subject": "Reminder: Constitutional Oath Obligations - {officer.name}",
+    "body": "Dear {officer.name},\n\nI am writing to remind you of your constitutional oath obligations as a public servant with {officer.organization}.\n\nAs outlined in the Australian Constitution, all public officers are bound by their oath of office to serve the people of Australia faithfully and diligently.\n\nThis notice serves as a formal reminder of these obligations and your duty to uphold the Constitution and laws of Australia.\n\nYour position: {officer.office}\nBranch: {officer.branch}\nBadge Number: {officer.badgeNumber}\n\nPlease confirm your understanding and continued commitment to these obligations.\n\nSincerely,\n{sender.name}\nLiving Council Member\n\nDate: {notice.date}",
+    "variables": ["officer.name", "officer.organization", "officer.office", "officer.branch", "officer.badgeNumber", "sender.name", "notice.date"],
+    "category": "constitutional",
+    "createdBy": "Living Council Admin",
+    "createdAt": "2024-01-11T14:30:00Z",
+    "updatedAt": "2024-01-11T14:30:00Z"
+  },
+  {
+    "Id": 3,
+    "name": "Accountability Notice",
+    "subject": "Notice of Accountability Requirements - {officer.organization}",
+    "body": "To: {officer.name}\nPosition: {officer.office}\nOrganization: {officer.organization}\nState: {officer.state}\n\nDear {officer.name},\n\nThis notice is served to inform you of your accountability requirements as a public officer.\n\nAll public servants are accountable to the people of Australia and must conduct themselves with integrity, honesty, and transparency.\n\nYou are required to:\n1. Act in the public interest at all times\n2. Maintain proper records of your decisions and actions\n3. Respond to legitimate inquiries from the public\n4. Uphold the highest standards of ethical conduct\n\nFailure to comply with these requirements may result in further action.\n\nThis notice is issued under the authority of the Living Council.\n\nRespectfully,\n{sender.name}\nLiving Council Member\n\nDate: {notice.date}",
+    "variables": ["officer.name", "officer.office", "officer.organization", "officer.state", "sender.name", "notice.date"],
+    "category": "accountability",
+    "createdBy": "Living Council Admin",
+    "createdAt": "2024-01-12T09:15:00Z",
+    "updatedAt": "2024-01-12T09:15:00Z"
+  },
+  {
+    "Id": 4,
+    "name": "Transparency Requirements",
+    "subject": "Transparency and Disclosure Requirements - {officer.name}",
+    "body": "Dear {officer.name},\n\nThis notice concerns transparency and disclosure requirements for public officers.\n\nAs a public servant with {officer.organization} in {officer.state}, you are required to maintain transparency in your official duties and disclose any conflicts of interest.\n\nKey requirements include:\n- Proper documentation of decisions\n- Timely response to freedom of information requests\n- Declaration of any potential conflicts of interest\n- Adherence to ethical guidelines\n\nYour cooperation in maintaining these standards is essential for public trust.\n\nPlease acknowledge receipt of this notice within 7 days.\n\nBest regards,\n{sender.name}\nLiving Council Member\n\nIssued: {notice.date}",
+    "variables": ["officer.name", "officer.organization", "officer.state", "sender.name", "notice.date"],
+    "category": "transparency",
+    "createdBy": "Living Council Admin",
+    "createdAt": "2024-01-13T11:20:00Z",
+    "updatedAt": "2024-01-13T11:20:00Z"
+  }
+]

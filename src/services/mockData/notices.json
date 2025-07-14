@@ -1,0 +1,62 @@
+[
+  {
+    "Id": 1,
+    "recipientId": 1,
+    "templateId": 1,
+    "subject": "Official Notice: Fiduciary Duty Compliance for Sarah Mitchell",
+    "body": "Dear Sarah Mitchell,\n\nThis is an official notice regarding your fiduciary duties as a public officer with NSW Department of Communities and Justice in NSW.\n\nAs a member of the Living Council, I am writing to remind you of your constitutional obligations and fiduciary duties to the people of Australia.\n\nYour immediate attention and response to this matter is required within 14 days of receipt of this notice.\n\nPlease acknowledge receipt of this notice and provide written confirmation of your understanding of these obligations.\n\nRegards,\nLiving Council Member\n\nDate: 2024-01-25",
+    "sentBy": "Living Council Admin",
+    "organization": "NSW Department of Communities and Justice",
+    "state": "NSW",
+    "sentAt": "2024-01-25T09:30:00Z",
+    "deliveryConfirmation": "Email sent via system"
+  },
+  {
+    "Id": 2,
+    "recipientId": 2,
+    "templateId": 2,
+    "subject": "Reminder: Constitutional Oath Obligations - Michael Chen",
+    "body": "Dear Michael Chen,\n\nI am writing to remind you of your constitutional oath obligations as a public servant with Victorian Department of Health.\n\nAs outlined in the Australian Constitution, all public officers are bound by their oath of office to serve the people of Australia faithfully and diligently.\n\nThis notice serves as a formal reminder of these obligations and your duty to uphold the Constitution and laws of Australia.\n\nYour position: Melbourne Central Office\nBranch: Health Services\nBadge Number: VIC-045\n\nPlease confirm your understanding and continued commitment to these obligations.\n\nSincerely,\nLiving Council Member\n\nDate: 2024-01-26",
+    "sentBy": "Living Council Admin",
+    "organization": "Victorian Department of Health",
+    "state": "VIC",
+    "sentAt": "2024-01-26T14:15:00Z",
+    "deliveryConfirmation": "Email sent via system"
+  },
+  {
+    "Id": 3,
+    "recipientId": 3,
+    "templateId": 3,
+    "subject": "Notice of Accountability Requirements - Queensland Department of Education",
+    "body": "To: Rebecca Thompson\nPosition: Brisbane District Office\nOrganization: Queensland Department of Education\nState: QLD\n\nDear Rebecca Thompson,\n\nThis notice is served to inform you of your accountability requirements as a public officer.\n\nAll public servants are accountable to the people of Australia and must conduct themselves with integrity, honesty, and transparency.\n\nYou are required to:\n1. Act in the public interest at all times\n2. Maintain proper records of your decisions and actions\n3. Respond to legitimate inquiries from the public\n4. Uphold the highest standards of ethical conduct\n\nFailure to comply with these requirements may result in further action.\n\nThis notice is issued under the authority of the Living Council.\n\nRespectfully,\nLiving Council Member\n\nDate: 2024-01-27",
+    "sentBy": "Living Council Admin",
+    "organization": "Queensland Department of Education",
+    "state": "QLD",
+    "sentAt": "2024-01-27T11:45:00Z",
+    "deliveryConfirmation": "Email sent via system"
+  },
+  {
+    "Id": 4,
+    "recipientId": 4,
+    "templateId": 4,
+    "subject": "Transparency and Disclosure Requirements - David Wilson",
+    "body": "Dear David Wilson,\n\nThis notice concerns transparency and disclosure requirements for public officers.\n\nAs a public servant with Western Australian Department of Environment in WA, you are required to maintain transparency in your official duties and disclose any conflicts of interest.\n\nKey requirements include:\n- Proper documentation of decisions\n- Timely response to freedom of information requests\n- Declaration of any potential conflicts of interest\n- Adherence to ethical guidelines\n\nYour cooperation in maintaining these standards is essential for public trust.\n\nPlease acknowledge receipt of this notice within 7 days.\n\nBest regards,\nLiving Council Member\n\nIssued: 2024-01-28",
+    "sentBy": "Living Council Admin",
+    "organization": "Western Australian Department of Environment",
+    "state": "WA",
+    "sentAt": "2024-01-28T16:20:00Z",
+    "deliveryConfirmation": "Email sent via system"
+  },
+  {
+    "Id": 5,
+    "recipientId": 5,
+    "templateId": 1,
+    "subject": "Official Notice: Fiduciary Duty Compliance for Emma Rodriguez",
+    "body": "Dear Emma Rodriguez,\n\nThis is an official notice regarding your fiduciary duties as a public officer with South Australian Department of Transport in SA.\n\nAs a member of the Living Council, I am writing to remind you of your constitutional obligations and fiduciary duties to the people of Australia.\n\nYour immediate attention and response to this matter is required within 14 days of receipt of this notice.\n\nPlease acknowledge receipt of this notice and provide written confirmation of your understanding of these obligations.\n\nRegards,\nLiving Council Member\n\nDate: 2024-01-29",
+    "sentBy": "Living Council Admin",
+    "organization": "South Australian Department of Transport",
+    "state": "SA",
+    "sentAt": "2024-01-29T13:10:00Z",
+    "deliveryConfirmation": "Email sent via system"
+  }
+]

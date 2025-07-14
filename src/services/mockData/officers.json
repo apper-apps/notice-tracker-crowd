@@ -1,0 +1,98 @@
+[
+  {
+    "Id": 1,
+    "name": "Sarah Mitchell",
+    "badgeNumber": "NSW-001",
+    "branch": "Community Services",
+    "office": "Sydney Regional Office",
+    "organization": "NSW Department of Communities and Justice",
+    "state": "NSW",
+    "email": "sarah.mitchell@dcj.nsw.gov.au",
+    "createdAt": "2024-01-15T09:00:00Z",
+    "updatedAt": "2024-01-15T09:00:00Z"
+  },
+  {
+    "Id": 2,
+    "name": "Michael Chen",
+    "badgeNumber": "VIC-045",
+    "branch": "Health Services",
+    "office": "Melbourne Central Office",
+    "organization": "Victorian Department of Health",
+    "state": "VIC",
+    "email": "michael.chen@health.vic.gov.au",
+    "createdAt": "2024-01-16T10:30:00Z",
+    "updatedAt": "2024-01-16T10:30:00Z"
+  },
+  {
+    "Id": 3,
+    "name": "Rebecca Thompson",
+    "badgeNumber": "QLD-123",
+    "branch": "Education Services",
+    "office": "Brisbane District Office",
+    "organization": "Queensland Department of Education",
+    "state": "QLD",
+    "email": "rebecca.thompson@det.qld.gov.au",
+    "createdAt": "2024-01-17T14:15:00Z",
+    "updatedAt": "2024-01-17T14:15:00Z"
+  },
+  {
+    "Id": 4,
+    "name": "David Wilson",
+    "badgeNumber": "WA-078",
+    "branch": "Environmental Services",
+    "office": "Perth Regional Office",
+    "organization": "Western Australian Department of Environment",
+    "state": "WA",
+    "email": "david.wilson@dwer.wa.gov.au",
+    "createdAt": "2024-01-18T11:45:00Z",
+    "updatedAt": "2024-01-18T11:45:00Z"
+  },
+  {
+    "Id": 5,
+    "name": "Emma Rodriguez",
+    "badgeNumber": "SA-234",
+    "branch": "Transport Services",
+    "office": "Adelaide Central Office",
+    "organization": "South Australian Department of Transport",
+    "state": "SA",
+    "email": "emma.rodriguez@dit.sa.gov.au",
+    "createdAt": "2024-01-19T13:20:00Z",
+    "updatedAt": "2024-01-19T13:20:00Z"
+  },
+  {
+    "Id": 6,
+    "name": "James Anderson",
+    "badgeNumber": "TAS-156",
+    "branch": "Primary Industries",
+    "office": "Hobart District Office",
+    "organization": "Tasmanian Department of Primary Industries",
+    "state": "TAS",
+    "email": "james.anderson@dpipwe.tas.gov.au",
+    "createdAt": "2024-01-20T08:30:00Z",
+    "updatedAt": "2024-01-20T08:30:00Z"
+  },
+  {
+    "Id": 7,
+    "name": "Lisa Park",
+    "badgeNumber": "ACT-089",
+    "branch": "Urban Planning",
+    "office": "Canberra Central Office",
+    "organization": "ACT Environment, Planning and Sustainable Development",
+    "state": "ACT",
+    "email": "lisa.park@act.gov.au",
+    "createdAt": "2024-01-21T12:00:00Z",
+    "updatedAt": "2024-01-21T12:00:00Z"
+  },
+  {
+    "Id": 8,
+    "name": "Robert Kim",
+    "badgeNumber": "NT-067",
+    "branch": "Mining and Energy",
+    "office": "Darwin Regional Office",
+    "organization": "Northern Territory Department of Industry",
+    "state": "NT",
+    "email": "robert.kim@nt.gov.au",
+    "createdAt": "2024-01-22T16:45:00Z",
+    "updatedAt": "2024-01-22T16:45:00Z"
+  }
+]
