@@ -9,7 +9,7 @@ import Reports from "@/components/pages/Reports";
 
 function App() {
   return (
-    <div className="min-h-screen bg-white">
+    <div className="bg-white">
       <Layout>
         <Routes>
           <Route path="/" element={<Dashboard />} />
